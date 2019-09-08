@@ -1,3 +1,4 @@
 My test repo for git
 
-based on git-it desktop app
+based on git-it desktop app.
+now proceeding to git-scm tutorial
